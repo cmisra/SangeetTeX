@@ -9,8 +9,9 @@ You require two font files:
 2. [**Bangla.ttf**](https://www.omicronlab.com/bangla-fonts.html) Used for annotating lyrics (uses Bangla Unicode font and require Bangla Input Method like [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html))
 3. You can use any Unicode Bangla Font to render the lyrics. However, since there is only one font available for score, you need to download **swarabitan.ttf**.
 4. Create two folders in the same working directory where your .tex source file is placed. The name of the folders are - **BanglaFontFiles** and **Swarabitan**.
-5. Download the **sangeet.cls** class file in the same working directory where your .tex source file is placed.
-6. You are good to go.
+5. Place Swarabitan.ttf inside Swarabitan folder, and Bangla.ttf in BanglaFontFiles folder.
+6. Download the **sangeet.cls** class file in the same working directory where your .tex source file is placed.
+7. You are good to go.
 
 ## Primary environment and commands for creating music-sheet
 
